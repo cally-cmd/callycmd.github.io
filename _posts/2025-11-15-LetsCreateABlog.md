@@ -106,3 +106,21 @@ Simple `cp` command and re-run the server, right?
 Please, please, please read the documentation on the required ***title*** scheme for the document itself. The page will not produce if it does not meet the `YYYY-MM-DD-Title.md` format.
 Another small headache is that Obsidian makes inserting documents-- specifically photos-- really easy, when writing these pages in the future I need to use official Markdown syntax.
 But once those changes have been made, I have my first successful post on localhost. Now let's put it on Github.
+
+As TechnoTim mentions in his video, all we should need to do now is add the changes, commit the changes, then push the changes. Chirpy has a built in Git Action that should do the heavy lifting for us to get the page setup.
+So, let's do that now! From the root of the repository:
+```bash
+git add .
+git commit -m "The first blog post!"
+git push
+```
+
+
+```
+```
+```
+```
+```
+```
+```
+```
