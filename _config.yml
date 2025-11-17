@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   A blog meant to perform as a way to distribute what I learn as I engage with some of my fascinations in tech, and as a way to showcase what I am interested in and currently learning.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://callycmd.github.io"
+url: "https://cally-cmd.github.io"
 
 github:
   username: cally-cmd # change to your GitHub username
